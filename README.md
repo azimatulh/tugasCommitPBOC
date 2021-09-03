@@ -5,4 +5,4 @@ tes commit
 push pertama
 
 
-NAMA / NIM
+AZIMATUL HANAFIYAH / 202410101077
